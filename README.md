@@ -1,4 +1,4 @@
-# Observateur devenements Windows
+# Observateur d’événements Windows
 
 ## Ma vue personnalisée.
 
